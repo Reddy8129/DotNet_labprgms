@@ -1,0 +1,9 @@
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.Form1.resources
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.Properties.Resources.resources
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.csproj.GenerateResource.Cache
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\bin\Debug\PBPro1.exe
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\bin\Debug\PBPro1.pdb
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.exe
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.pdb
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.Form2.resources
+c:\users\prashanth\documents\visual studio 2010\Projects\PBPro1\PBPro1\obj\x86\Debug\PBPro1.Form3.resources
